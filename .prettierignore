@@ -1,0 +1,19 @@
+# Временные и сборочные файлы
+/markup
+/build
+/node_modules
+
+# Файлы конфигурации
+webpack.config.js
+.eslintrc
+.prettierrc
+
+# Файлы данных или ресурсов
+*.jpg
+*.png
+*.pdf
+
+#
+*.git
+*.yml
+*.md
